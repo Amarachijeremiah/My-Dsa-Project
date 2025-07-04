@@ -37,6 +37,11 @@ Employee demographic, department, region, salary, and performance rating data.
 - Assign 'Not Disclosed' to missing genders
 - Drop duplicates and fix inconsistencies
 
+  ![image](https://github.com/user-attachments/assets/f4690e60-d325-4759-a750-2fc5e57331ae)
+  ![DSA Data cleaning](https://github.com/user-attachments/assets/a8e8b29e-30d8-4e58-a00b-a7b5afc28b42)
+
+
+
 ### 🎁 Bonus Allocation
 - Individual bonus calculations.
 - Total payouts by region and company-wide.
@@ -44,8 +49,9 @@ Employee demographic, department, region, salary, and performance rating data.
 ---
 
 ## 📊 Visuals
-![Power BI Analysis](DSA Poject2.png)
+![DSA power bi pic 1](https://github.com/user-attachments/assets/7d3c89db-2e22-46f4-875b-d759caafad6f)
 
+![DSA Poject 2](https://github.com/user-attachments/assets/30d266ef-3bd0-4056-86ab-f4d7e8622816)
 
 
 
