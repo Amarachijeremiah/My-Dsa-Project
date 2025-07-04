@@ -10,8 +10,8 @@ In response to recent media allegations of gender inequality at Palmoria Group, 
 ---
 ## 📁 Data
 
-- `employee_data.csv`: Employee demographic, department, region, salary, and performance rating data.
-- `bonus_rules.csv`: Mapping of performance ratings to bonus percentages.
+Employee demographic, department, region, salary, and performance rating data.
+ Mapping of performance ratings to bonus percentages.
 
 ---
 
@@ -44,6 +44,7 @@ In response to recent media allegations of gender inequality at Palmoria Group, 
 ---
 
 ## 📊 Visuals
+![Power BI Analysis](DSA Poject2.png)
 
 
 
