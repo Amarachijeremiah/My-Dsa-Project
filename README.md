@@ -1,5 +1,5 @@
-# My-Dsa-Project
-# Palmoria HR Gender Analysis & Pay Equity Project 🎻✨
+# Dsa-Project - Power BI
+# Palmoria HR Gender Analysis & Pay Equity Project ✨
 
 ## 🎯 Project Overview
 
@@ -17,7 +17,7 @@ Employee demographic, department, region, salary, and performance rating data.
 
 ## 🔍 Exploratory Data Analysis
 
-### 🌿 Gender Distribution
+### Gender Distribution
 - Overall, by region, and by department.
 
 ### 💡 Performance Ratings
@@ -75,7 +75,7 @@ Employee demographic, department, region, salary, and performance rating data.
 ---
 
 
-## 🎤 Author’s Note
+## Note
 
 This project embodies a commitment to fairness, transparency, and the future of inclusive workplaces. Data is not just numbers — it is the heartbeat of an organization's story. 🌟
 
@@ -83,6 +83,6 @@ This project embodies a commitment to fairness, transparency, and the future of 
 
 ## 🌍 Contact
 
-[Amarachi Gold Jeremiah] — [jeriama00@gmail.com]
+Amarachi Gold Jeremiah— [jeriama00@gmail.com]
 
 ---
